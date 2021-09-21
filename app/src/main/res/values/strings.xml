@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="_0">1</string>
+    <string name="quantity">Quantity</string>
+    <string name="_Price">Price</string>
+    <string name="order">Order</string>
+    <string name="_1">₹ 5</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="displayMessage">\nThank You!</string>
+</resources>
